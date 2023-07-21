@@ -12,7 +12,25 @@
 
 > Write your own library: a collection of functions that will be a useful tool for your cursus.
 
-<h2>Mandatory part</h2>
+<h2>✔️ Project's requirements</h2>
+
+- Declaring global variables is forbidden.
+- If you need helper functions to split a more complex function, define them as static
+functions. This way, their scope will be limited to the appropriate file.
+- Place all your files at the root of your repository.
+- Turning in unused files is forbidden.
+- Every .c files must compile with the flags -Wall -Wextra -Werror.
+- You must use the command ar to create your library. Using the libtool command
+is forbidden.
+- Your libft.a has to be created at the root of your repository.
+
+<h2>🧬 Theory</h2>
+
+Code the functions.
+
+<h2>📝 Code explanation</h2>
+
+<h3>Mandatory part</h3>
 
 <details>
 
@@ -992,7 +1010,7 @@ void	ft_putnbr_fd(int n, int fd)
 
 </details>
 
-<h2>Bonus part</h2>
+<h3>Bonus part</h3>
 
 <details>
 
@@ -1214,8 +1232,11 @@ t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))
 
 </details>
 
-<h2>Resources</h2>
+<h2>🧰 Toolbox</h2>
 
 - [libftTester](https://github.com/Tripouille/libftTester)
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test)
+
+<h2>📚 Resources</h2>
+
 - [Library Functions Manual](https://man7.org/linux/man-pages/man3/)
