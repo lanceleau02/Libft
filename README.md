@@ -4,8 +4,6 @@
 
 <a href="https://imgflip.com/i/7q0hc7"><img src="https://i.imgflip.com/7q0hc7.jpg" width="350px" title="meme"/></a>
   
-<a><img src="https://badge42.vercel.app/api/v2/clj4r0l4t004008mgcfxas4fw/project/2833039" title="score"/></a>
-  
 </div>
 
 <p>Description:</p>
