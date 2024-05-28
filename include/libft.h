@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: laprieur <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: laprieur <laprieur@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/18 16:20:41 by laprieur          #+#    #+#             */
-/*   Updated: 2023/06/18 17:48:36 by laprieur         ###   ########.fr       */
+/*   Updated: 2024/05/28 09:26:57 by laprieur         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,12 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-
-typedef struct s_list
-{
-	void			*content;
-	struct s_list	*next;
-}	t_list;
 
 /* ************************************************************************** */
 /*                                 MANDATORY                                  */
@@ -66,6 +60,12 @@ size_t		ft_strlen(const char *s);
 /* ************************************************************************** */
 /*                                   BONUS                                    */
 /* ************************************************************************** */
+
+typedef struct s_list
+{
+	void			*content;
+	struct s_list	*next;
+}	t_list;
 
 int			ft_lstsize(t_list *lst);
 void		ft_lstadd_back(t_list **lst, t_list *new);
