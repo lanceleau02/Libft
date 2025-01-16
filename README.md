@@ -79,7 +79,7 @@ This project is licensed under the **42 School** License.
 
 For more details, see the [LICENSE](https://github.com/lanceleau02/Libft/blob/main/LICENSE) file.
 
-## Credits & Acknowledgements
+## Resources
 
 - [libftTester](https://github.com/Tripouille/libftTester)
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test)
