@@ -77,17 +77,10 @@ This project is licensed under the **42 School** License.
 - **Non-commercial Use**: The code may not be used for commercial purposes or redistributed outside of the 42 School context.
 - **No Warranty**: The project is provided "as-is", without any warranty of any kind.
 
-For more details, see the [LICENSE]() file.
-
-
+For more details, see the [LICENSE](https://github.com/lanceleau02/Libft/blob/main/LICENSE) file.
 
 ## Credits & Acknowledgements
 
-<h2>🧰 Toolbox</h2>
-
 - [libftTester](https://github.com/Tripouille/libftTester)
 - [libft-unit-test](https://github.com/alelievr/libft-unit-test)
-
-<h2>📚 Resources</h2>
-
 - [Library Functions Manual](https://man7.org/linux/man-pages/man3/)
