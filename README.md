@@ -71,6 +71,16 @@ Once linked, you can use any of the Libft functions in your code.
 
 ## License
 
+This project is licensed under the **42 School** License.
+
+- **Educational Use Only**: This project is intended for educational purposes at the 42 School as part of the curriculum.
+- **Non-commercial Use**: The code may not be used for commercial purposes or redistributed outside of the 42 School context.
+- **No Warranty**: The project is provided "as-is", without any warranty of any kind.
+
+For more details, see the [LICENSE]() file.
+
+
+
 ## Credits & Acknowledgements
 
 <h2>🧰 Toolbox</h2>
