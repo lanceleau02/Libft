@@ -43,15 +43,15 @@ Use the `libft.a` file in your own C project by linking it during compilation.
 
 ## Usage
 
-1. Include the Libft header:
+1. Include the header:
 
-In your C project, include the `libft.h` header file to access the functions provided by Libft.
+In your C project, include the `libft.h` header file to access the functions provided by the library.
 
 ```c
 #include "libft.h"
 ```
 
-2. Link the Libft library:
+2. Link the library:
 
 When compiling your C project, link the `libft.a` library by using the `-L` flag to specify the path to `libft.a` and `-lft` to link the library.
 For example, if you're using `gcc`, you can compile your project like this:
@@ -63,11 +63,11 @@ gcc -o my_project my_project.c -L./Libft -lft
 Where:
 
 - `-L./Libft` specifies the directory where `libft.a` is located.
-- `-lft` links the Libft library.
+- `-lft` links the library.
 
-3. Use Libft functions:
+3. Use the functions:
 
-Once linked, you can use any of the Libft functions in your code.
+Once linked, you can use any of the library functions in your code.
 
 ## License
 
