@@ -19,7 +19,7 @@
 
 ## Installation
 
-Since this project is a C library, there’s nothing to install. Simply clone the repository and include the libft.a file in your project.
+Since this project is a C library, there’s nothing to install. Simply clone the repository and include the `libft.a` file in your project.
 
 1. Clone the repository:
 
